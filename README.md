@@ -82,7 +82,6 @@ Réaliser une todo list permettant d'ajouter des choses à se rappeler. Une fois
 * Afficher la date/heure de la création de chaque tâche,
 * Quand la tâche est réalisé, afficher la différence de temps entre la création et la validation de la tâche,
 * Supprimer une tâche (avec confirmation de suppression),
-* Sauvegarder la todo list dans un fichier json,
 * Possibilité de créer plusieurs listes et de les nommer,
 * Ajout de listes en "favoris".
 
